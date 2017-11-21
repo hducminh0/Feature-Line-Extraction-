@@ -1,0 +1,3 @@
+[submodule "TestVCG/TestVCG/vcglib"]
+	path = TestVCG/TestVCG/vcglib
+	url = https://github.com/cnr-isti-vclab/vcglib.git
