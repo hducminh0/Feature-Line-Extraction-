@@ -1,0 +1,68 @@
+﻿  TestVCG.cpp
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\wrap\callback.h(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\testvcg.cpp(59): warning C4138: '*/' found outside of comment
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(428): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(401): note: while compiling class template member function 'void vcg::tri::UpdateCurvature<MyMesh>::MeanAndGaussian(MeshType &)'
+          with
+          [
+              MeshType=MyMesh
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\testvcg.cpp(71): note: see reference to function template instantiation 'void vcg::tri::UpdateCurvature<MyMesh>::MeanAndGaussian(MeshType &)' being compiled
+          with
+          [
+              MeshType=MyMesh
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\testvcg.cpp(71): note: see reference to class template instantiation 'vcg::tri::UpdateCurvature<MyMesh>' being compiled
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(437): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(438): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(449): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(450): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(451): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(455): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(456): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(457): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(461): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(462): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(463): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(473): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(482): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(483): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(484): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\update\curvature.h(518): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\space\triangle3.h(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\bitquad_support.h(1181): note: see reference to function template instantiation 'P3ScalarType vcg::QualityRadii<float>(const vcg::Point3<P3ScalarType> &,const vcg::Point3<P3ScalarType> &,const vcg::Point3<P3ScalarType> &)' being compiled
+          with
+          [
+              P3ScalarType=float
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\vcg\complex\algorithms\bitquad_support.h(1158): note: while compiling class template member function 'void vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>::QuadTriangulate(std::vector<MyVertex *,std::allocator<_Ty>> &)'
+          with
+          [
+              MESH_TYPE=MyMesh,
+              _Ty=MyVertex *
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\wrap\io_trimesh\import_off.h(423): note: see reference to function template instantiation 'void vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>::QuadTriangulate(std::vector<MyVertex *,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh,
+              _Ty=MyVertex *
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\wrap\io_trimesh\import_off.h(423): note: see reference to class template instantiation 'vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\wrap\io_trimesh\import_off.h(130): note: while compiling class template member function 'int vcg::tri::io::ImporterOFF<MyMesh>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))'
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\vcglib\wrap\io_trimesh\import_off.h(125): note: see reference to function template instantiation 'int vcg::tri::io::ImporterOFF<MyMesh>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+  c:\users\xps 15-9550\downloads\testvcg\testvcg\testvcg\testvcg.cpp(62): note: see reference to class template instantiation 'vcg::tri::io::ImporterOFF<MyMesh>' being compiled
+  TestVCG.vcxproj -> C:\Users\XPS 15-9550\Downloads\TestVCG\TestVCG\Debug\TestVCG.exe
