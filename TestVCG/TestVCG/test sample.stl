@@ -1,0 +1,44 @@
+solid Untitled-5a1510c1
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 15.512483509056734 29.947824788848536 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 59.002216999999995 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 15.512483509056734 29.947824788848536 0.0
+    vertex 70.28621092838463 0.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 59.002216999999995 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 63.49923
+  endloop
+endfacet
+facet normal 0.8081412329804984 0.4314761588709867 0.40091903407383733
+  outer loop
+    vertex 0.0 59.002216999999995 0.0
+    vertex 0.0 0.0 63.49923
+    vertex 15.512483509056734 29.947824788848536 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 63.49923
+    vertex 0.0 0.0 0.0
+    vertex 70.28621092838463 0.0 0.0
+  endloop
+endfacet
+facet normal 0.4237011381219976 0.7749374390421503 0.46898753834714785
+  outer loop
+    vertex 0.0 0.0 63.49923
+    vertex 70.28621092838463 0.0 0.0
+    vertex 15.512483509056734 29.947824788848536 0.0
+  endloop
+endfacet
+endsolid Untitled-5a1510c1

@@ -52,6 +52,7 @@ void OneRingNeighborhood(MyFace * f)
 		f.FlipV();
 		cout << f.v->P().X() << " " << f.v->P().Y() << " " << f.v->P().Z() << endl;
 		cout << p.v->P().X() << " " << p.v->P().Y() << " " << p.v->P().Z() << endl;
+		cout << v->K1() << "; " << v->K2() << endl;
 
 	} while (p.f != start);
 }
@@ -73,12 +74,12 @@ int main(int /*argc*/, char **/*argv*/)
 	{
 		cout << vi->P().X() << " " << vi->P().Y() << " " << vi->P().Z() << "--------" << endl;
 		//getNeighbors(*vi);
-
+		if(vi == m.vert.end())
+			break;
 		MyFace * f = vi->VFp();
 		MyVertex * v = f->V(0);
 		OneRingNeighborhood(f);
 		//vcg::face::Pos<MyFace> p(start, 0, vi);// constructor that takes face, edge and vertex
-		cout << v->Kg() << endl;
 
 		//cout << vcg::tri::UpdateCurvature<MyMesh>::ComputeSingleVertexCurvature(v) << endl;
 		//MyMesh::EdgePointer ep = vi->VEp();
