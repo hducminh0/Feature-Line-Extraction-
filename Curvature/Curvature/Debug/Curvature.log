@@ -1,0 +1,69 @@
+﻿  Curvature.cpp
+f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(45): warning C4101: 'z': unreferenced local variable
+f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(45): warning C4101: 'y': unreferenced local variable
+f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(45): warning C4101: 'x': unreferenced local variable
+f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(124): warning C4138: '*/' found outside of comment
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(429): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(403): note: while compiling class template member function 'void vcg::tri::UpdateCurvature<MyMesh>::MeanAndGaussian(MeshType &)'
+          with
+          [
+              MeshType=MyMesh
+          ]
+  f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(135): note: see reference to function template instantiation 'void vcg::tri::UpdateCurvature<MyMesh>::MeanAndGaussian(MeshType &)' being compiled
+          with
+          [
+              MeshType=MyMesh
+          ]
+  f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(135): note: see reference to class template instantiation 'vcg::tri::UpdateCurvature<MyMesh>' being compiled
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(437): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(438): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(439): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(450): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(451): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(452): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(456): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(457): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(458): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(462): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(463): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(464): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(474): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(483): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(484): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(485): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\update\curvature.h(519): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\mlp\usth\ictlab\vcglib\vcg\space\triangle3.h(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\bitquad_support.h(1181): note: see reference to function template instantiation 'P3ScalarType vcg::QualityRadii<float>(const vcg::Point3<P3ScalarType> &,const vcg::Point3<P3ScalarType> &,const vcg::Point3<P3ScalarType> &)' being compiled
+          with
+          [
+              P3ScalarType=float
+          ]
+  f:\mlp\usth\ictlab\vcglib\vcg\complex\algorithms\bitquad_support.h(1158): note: while compiling class template member function 'void vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>::QuadTriangulate(std::vector<MyVertex *,std::allocator<_Ty>> &)'
+          with
+          [
+              MESH_TYPE=MyMesh,
+              _Ty=MyVertex *
+          ]
+  f:\mlp\usth\ictlab\vcglib\wrap\io_trimesh\import_off.h(423): note: see reference to function template instantiation 'void vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>::QuadTriangulate(std::vector<MyVertex *,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh,
+              _Ty=MyVertex *
+          ]
+  f:\mlp\usth\ictlab\vcglib\wrap\io_trimesh\import_off.h(423): note: see reference to class template instantiation 'vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+  f:\mlp\usth\ictlab\vcglib\wrap\io_trimesh\import_off.h(130): note: while compiling class template member function 'int vcg::tri::io::ImporterOFF<MyMesh>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))'
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+  f:\mlp\usth\ictlab\vcglib\wrap\io_trimesh\import_off.h(125): note: see reference to function template instantiation 'int vcg::tri::io::ImporterOFF<MyMesh>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+  f:\mlp\usth\ictlab\vcg\curvature\curvature\curvature.cpp(128): note: see reference to class template instantiation 'vcg::tri::io::ImporterOFF<MyMesh>' being compiled
+  Curvature.vcxproj -> F:\MLP\USTH\ICTLab\VCG\Curvature\Debug\Curvature.exe

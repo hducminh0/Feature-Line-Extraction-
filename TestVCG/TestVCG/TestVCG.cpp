@@ -57,10 +57,10 @@ void OneRingNeighborhood(MyFace * f)
 	} while (p.f != start);
 }
 
-int main(int /*argc*/, char **/*argv*/)
+int main()
 {
 	MyMesh m;
-	vcg::tri::io::ImporterOFF<MyMesh>::Open(m, "C:\\Users\\XPS 15-9550\\Downloads\\Laurana50k.off");
+	vcg::tri::io::ImporterOFF<MyMesh>::Open(m, "");
 	//vcg::tri::Torus(m, 30, 10);
 
 	vcg::tri::UpdateTopology<MyMesh>::FaceFace(m);
